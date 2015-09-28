@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Component Architecture" version="4">
+  <OBJECT>
+    <ID name="Component Architecture" mc="Standard.Package" uid="3450bb2e-8efb-4eef-84e9-f04826d5af69"/>
+    <PID name="Specification" mc="Standard.Package" uid="669d4d9d-ce34-4908-9fbe-9c622b3ab61c"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Component Architecture]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Interactions" mc="Standard.Package" uid="eb4df204-41cf-4b01-8a47-a43e4b19b10e"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

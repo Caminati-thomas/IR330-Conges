@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Specification" version="4">
+  <OBJECT>
+    <ID name="Specification" mc="Standard.Package" uid="669d4d9d-ce34-4908-9fbe-9c622b3ab61c"/>
+    <PID name="demandedeconge" mc="Standard.Package" uid="c16a01ef-2b95-48bf-84a2-5e47d7ef33b3"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Specification]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Business Type Model" mc="Standard.Package" uid="9e160d91-842e-4fd2-90a4-3fdeaa89fbb8"/>
+        <COMPID name="Interface Specifications" mc="Standard.Package" uid="0269bc76-d134-47ac-9a0c-4555ab61b340"/>
+        <COMPID name="Component Specifications" mc="Standard.Package" uid="650ce308-547f-4007-9ed2-297d50abaac5"/>
+        <COMPID name="Component Architecture" mc="Standard.Package" uid="3450bb2e-8efb-4eef-84e9-f04826d5af69"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="DemandeDeConge" version="4">
+  <OBJECT>
+    <ID name="DemandeDeConge" mc="Standard.AnalystProject" uid="7cf2b5d3-8426-40b1-ace2-05937c425eb1"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[DemandeDeConge]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="PropertyRoot">
+        <COMPID name="DemandeDeConge" mc="Standard.PropertyContainer" uid="759887e7-d563-47b6-be19-eec7719d9fe8"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="DemandeDeConge" version="4">
+  <OBJECT>
+    <ID name="DemandeDeConge" mc="Standard.DiagramSet" uid="0d9822da-c2d1-4792-a4ca-dd1c2981aace"/>
+    <PID name="DemandeDeConge" mc="Standard.Project" uid="8ebadc47-87bf-4c16-b15e-531362d0306b"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[DemandeDeConge]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Use Case Model" version="4">
+  <OBJECT>
+    <ID name="Use Case Model" mc="Standard.Package" uid="389f4582-2dee-4e92-8d14-36504ac1852f"/>
+    <PID name="Requirements" mc="Standard.Package" uid="3341f938-5102-4b1d-91a2-1e7bcf771c62"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Use Case Model]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="salarie" mc="Standard.Actor" uid="358d5bb1-746b-4557-8564-bd8d9096765e"/>
+        <COMPID name="manageur" mc="Standard.Actor" uid="c9fea38d-6cbc-4919-8cc8-0da2835b926c"/>
+        <COMPID name="servRH" mc="Standard.Actor" uid="c254d24e-254e-4409-ac45-3f71ba5a6995"/>
+        <COMPID name="servPaie" mc="Standard.Actor" uid="faf4e97b-ca09-4f9a-a113-877a283851b1"/>
+        <COMPID name="Demander conge" mc="Standard.UseCase" uid="11d57d0b-56ce-4d3c-9a51-561387c2f16b"/>
+        <COMPID name="Annuler conge" mc="Standard.UseCase" uid="50e73cc7-5ed8-4b49-a9d6-d272412c2bcd"/>
+        <COMPID name="Consulter conge" mc="Standard.UseCase" uid="515d60eb-60fa-4fd6-ab90-f98d7246d11f"/>
+        <COMPID name="Autentifier utilisateur" mc="Standard.UseCase" uid="b8a72267-d234-41d3-9ff4-43f93381be86"/>
+        <COMPID name="Controler conge" mc="Standard.UseCase" uid="054610dd-8486-4a93-9f3f-cc6b40d9c895"/>
+        <COMPID name="Valider conge" mc="Standard.UseCase" uid="a70f8ce0-29a2-4d10-9cb5-1023dae2c7f9"/>
+        <COMPID name="Editer solde" mc="Standard.UseCase" uid="01142e54-e052-4696-a01b-307a35c10663"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Use Case diagram" mc="Standard.UseCaseDiagram" uid="a5601ad9-9a07-4905-9c33-c235360e4e17"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

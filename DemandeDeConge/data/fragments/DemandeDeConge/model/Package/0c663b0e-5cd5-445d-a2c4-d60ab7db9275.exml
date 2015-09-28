@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Business Concept Model" version="4">
+  <OBJECT>
+    <ID name="Business Concept Model" mc="Standard.Package" uid="0c663b0e-5cd5-445d-a2c4-d60ab7db9275"/>
+    <PID name="Requirements" mc="Standard.Package" uid="3341f938-5102-4b1d-91a2-1e7bcf771c62"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Business Concept Model]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Conge" mc="Standard.Class" uid="af73e6d2-dea6-49c1-9e06-43921846c259"/>
+        <COMPID name="Salarie" mc="Standard.Class" uid="f282c615-06cd-41bb-912c-21b7bef3f03e"/>
+        <COMPID name="Manageur" mc="Standard.Class" uid="81603bf6-9d35-4571-a1a2-b82bc7455a53"/>
+        <COMPID name="ServicePaie" mc="Standard.Class" uid="ef87e63d-9f56-4992-bb7d-d65d9316cdde"/>
+        <COMPID name="FichePaie" mc="Standard.Class" uid="238fc4f0-ebd9-4079-ab7e-3ea3f5bceac8"/>
+        <COMPID name="ServiceRH" mc="Standard.Class" uid="1e658dd4-6304-4b2f-a854-54d45e0a3a73"/>
+        <COMPID name="Planning" mc="Standard.Class" uid="98a3c707-b542-4b3f-ac4a-8af87982606c"/>
+        <COMPID name="SoldeConge" mc="Standard.Class" uid="e63a725b-b82f-4e2c-b743-bfaa5d0ff220"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Business Concept Model" mc="Standard.ClassDiagram" uid="4f0a0017-41ac-463a-a793-5d7de2e6bebb"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

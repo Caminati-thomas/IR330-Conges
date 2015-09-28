@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Component Specifications" version="4">
+  <OBJECT>
+    <ID name="Component Specifications" mc="Standard.Package" uid="650ce308-547f-4007-9ed2-297d50abaac5"/>
+    <PID name="Specification" mc="Standard.Package" uid="669d4d9d-ce34-4908-9fbe-9c622b3ab61c"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Component Specifications]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

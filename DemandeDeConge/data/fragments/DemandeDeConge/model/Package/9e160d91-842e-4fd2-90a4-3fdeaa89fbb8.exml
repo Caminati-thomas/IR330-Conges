@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Business Type Model" version="4">
+  <OBJECT>
+    <ID name="Business Type Model" mc="Standard.Package" uid="9e160d91-842e-4fd2-90a4-3fdeaa89fbb8"/>
+    <PID name="Specification" mc="Standard.Package" uid="669d4d9d-ce34-4908-9fbe-9c622b3ab61c"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Business Type Model]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Conge" mc="Standard.Class" uid="eb8a8cce-af34-4983-a83a-d4c5ea77dbde"/>
+        <COMPID name="Salarie" mc="Standard.Class" uid="dfba3f09-4360-4b17-8af4-bb4e4a8da547"/>
+        <COMPID name="Departement" mc="Standard.Class" uid="d41bc905-8e4b-4324-823a-f1914ab32a71"/>
+        <COMPID name="Manageur" mc="Standard.Class" uid="5dbf42c6-602c-44ff-92a9-7a95214aee07"/>
+        <COMPID name="RessourceHumaine" mc="Standard.Class" uid="752cef68-122c-4aea-984d-33adf0a6aaa9"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Business Type Model" mc="Standard.ClassDiagram" uid="ab8c832e-bcd1-41c2-9586-72555fd82754"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

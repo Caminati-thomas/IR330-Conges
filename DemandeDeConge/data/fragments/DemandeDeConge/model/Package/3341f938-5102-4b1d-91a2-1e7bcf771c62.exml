@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Requirements" version="4">
+  <OBJECT>
+    <ID name="Requirements" mc="Standard.Package" uid="3341f938-5102-4b1d-91a2-1e7bcf771c62"/>
+    <PID name="demandedeconge" mc="Standard.Package" uid="c16a01ef-2b95-48bf-84a2-5e47d7ef33b3"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Requirements]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="Activity" mc="Standard.Activity" uid="f8c5ef0d-bcca-40b0-91d6-b14ab5164c74"/>
+      </COMP>
+      <COMP relation="OwnedElement">
+        <COMPID name="Business Concept Model" mc="Standard.Package" uid="0c663b0e-5cd5-445d-a2c4-d60ab7db9275"/>
+        <COMPID name="Use Case Model" mc="Standard.Package" uid="389f4582-2dee-4e92-8d14-36504ac1852f"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
